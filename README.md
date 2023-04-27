@@ -1,13 +1,16 @@
 ### <div align="center">I'm Javier, a Full-stack Web Developer 👨‍💻 🚀💻</div>  
   
+- 🔭 I’m currently working on personal projects to improve my skills in full stack development. I’m also seekink new opportunities to collaborated
+  with other developers and work on exciting projects .
 
-- 🌱 I’m currently learning JavaScript  
+- 🌱 I’m currently learning JavaScript, TypeScript and i'm also interested exploring other front end frameworks and back end technologies to expand my
+  knowledge.
   
 
-- 👯 I’m looking to collaborate on front-end and back-end projects  
+- 👯 I’m looking to collaborate on front-end and back-end projects.
   
 
-- ⚡ What I like to do: I like so much tecnologies, Fútbol and coffee...and coding of course  
+- ⚡ What I like to do: I like so much tecnologies, Fútbol and coffee...and coding of course.
   
 
 <br/>  
